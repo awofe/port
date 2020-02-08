@@ -213,7 +213,7 @@
    			<h5>Resume</h5>
    			<h1>More of my credentials.</h1>
 
-   			<p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+   			{{-- <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p> --}}
 
    		</div>   		
    	</div> <!-- /section-intro--> 
@@ -397,7 +397,7 @@
    			<h5>Portfolio</h5>
    			<h1>Check Out Some of My Works.</h1>
 
-   			<p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+   			{{-- <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p> --}}
 
    		</div>   		
    	</div> <!-- /section-intro--> 
@@ -908,7 +908,7 @@
    			<h5>Contact</h5>
    			<h1>I'd Love To Hear From You.</h1>
 
-   			<p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+   			{{-- <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p> --}}
 
    		</div> 
    	</div> <!-- /section-intro -->
@@ -971,9 +971,9 @@
    			<h5>Where to find me</h5>
 
    			<p>
-            1600 Amphitheatre Parkway<br>
-            Mountain View, CA<br>
-            94043 US
+            1Jakande Estate isolo<br>
+            Lagos, Nigeria<br>
+            11026
             </p>
 
    		</div>
@@ -986,8 +986,8 @@
 
    			<h5>Email Me At</h5>
 
-   			<p>someone@kardswebsite.com<br>
-			   	info@kardswebsite.com			     
+   			<p>Olaitanfalolu02@gmail.com<br>
+			   	info@anchorteck.com			     
 			   </p>
 
    		</div>
@@ -1000,9 +1000,9 @@
 
    			<h5>Call Me At</h5>
 
-   			<p>Phone: (+63) 555 1212<br>
-			   	Mobile: (+63) 555 0100<br>
-			     	Fax: (+63) 555 0101
+   			<p>Phone: (+234) 8104656502<br>
+			   	Mobile: (+234) 7063842535<br>
+			     
 			   </p>
 
    		</div>
@@ -1021,20 +1021,19 @@
      		<div class="col-six tab-full pull-right social">
 
      			<ul class="footer-social">        
-			      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-			      <li><a href="#"><i class="fa fa-behance"></i></a></li>
-			      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-			      <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-			      <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+				<li><a href="https://www.facebook.com/horlahetan" target="_blank"><i class="fa fa-facebook"></i></a></li>
+			    <li><a href="https://www.twitter.com/Mr_falz" target="_blank"><i class="fa fa-twitter"></i></a></li>
+			    <li><a href="https://www.instagram.com/horlahetan" target="_blank"><i class="fa fa-instagram"></i></a></li>
+		 		<li><a href="https://www.linkedin.com/in/olaitan-falolu-0007/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 			   </ul> 
 	      		
 	      </div>
 
       	<div class="col-eight tab-full">
 	      	<div class="copyright">
-		        	<span>© Copyright 2018 </span> 
-		        	<span>Design by <a href="http://www.styleshout.com/">styleshout</a></span> 
-		        	<span>Distributed by <a href="https://themewagon.com/">themewagon</a></span>	         	
+		        	<span>© Copyright 2020 </span> 
+		        	<span>Design by <a href="#">Olaitan Falolu</a></span> 
+		        		         	
 		         </div>		                  
 	      	</div>
 
