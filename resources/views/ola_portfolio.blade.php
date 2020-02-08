@@ -648,16 +648,18 @@
 
    		<div class="col-twelve section-ads">  
 
-	     		<h2 class="h01"><a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT">Styleshout Recommends Dreamhost.</a></h2>
+	     		<h2 class="h01">Certifications</h2>
 
 		      <p class="lead">
-		      Looking for an awesome and reliable webhosting? Try <a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT"><span>DreamHost</span></a>.
-				Get <span>$50 off</span> when you sign up with the promocode <span>styleshout</span>. 
+		      {{-- Looking for an awesome and reliable webhosting? Try <a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT"><span>DreamHost</span></a>.
+				Get <span>$50 off</span> when you sign up with the promocode <span>styleshout</span>.  --}}
+				1. Linux Foundation Certified system Administrator (In Review)<br>
+				2. Microsoft Azure System Administrator (in Review)
 				<!-- Simply type	the promocode in the box labeled “Promo Code” when placing your order. -->	
 				</p>
 
 				<div class="action">
-			      <a class="button button-primary large" href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT">Sign Up Now</a>
+			      <a class="button button-primary large" href="#">View Certificate</a>
 		      </div>		     	
 
    		</div>
@@ -679,7 +681,7 @@
    			<h5>Services</h5>
    			<h1>What Can I Do For You?</h1>
 
-   			<p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+   			{{-- <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p> --}}
 
    		</div>   		
    	</div> <!-- /section-intro -->
@@ -696,8 +698,8 @@
 
 	            	 <h3>Webdesign</h3>
 
-		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-	         		</p>
+		            {{-- <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit. --}}
+	         		{{-- </p> --}}
 	         		
 	         	</div> 	         	 
 
@@ -711,8 +713,8 @@
 
 	            	<h3>Web Development</h3>  
 
-		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-	         		</p>
+		            {{-- <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+	         		</p> --}}
 
 	            </div>	                          
 
@@ -726,8 +728,8 @@
 
 	            	<h3>Branding</h3>
 
-		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-	        			</p> 
+		            {{-- <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+	        			</p>  --}}
 
 	            </div> 	            	               
 
@@ -741,8 +743,8 @@
 
 	            	<h3>UI/UX Design</h3>
 
-		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-	         		</p> 
+		            {{-- <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+	         		</p>  --}}
 	         		
 	            </div>                
 
@@ -756,8 +758,8 @@
 
 	            	<h3>Graphics Design</h3>
 
-		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-	        			</p> 
+		            {{-- <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+	        			</p>  --}}
 
 	            </div>	               
 
@@ -769,10 +771,10 @@
 
 	            <div class="service-content">
 
-	            	 <h3>Consultancy</h3>
+	            	 <h3>IT Consultancy</h3>
 
-		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-	        			</p> 
+		            {{-- <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+	        			</p>  --}}
 	        			
 	            </div>	               
 
@@ -801,7 +803,7 @@
 						</div>
 
 						<h3 class="stat-count">
-							1500
+							5
 						</h3>
 
 						<h5 class="stat-title">
@@ -817,7 +819,7 @@
 						</div>
 
 						<h3 class="stat-count">
-							900
+							5
 						</h3>
 
 						<h5 class="stat-title">
@@ -826,21 +828,21 @@
 
 					</div> <!-- /stat -->
 
-					<div class="bgrid stat">
+					{{-- <div class="bgrid stat">
 
 						<div class="icon-part">
 							<i class="icon-badge"></i>
 						</div>
 
 						<h3 class="stat-count">
-							200
+							000
 						</h3>
 
 						<h5 class="stat-title">
 							Awards Received
 						</h5>
 
-					</div> <!-- /stat -->									
+					</div> <!-- /stat -->									 --}}
 
 					<div class="bgrid stat">
 
@@ -849,14 +851,14 @@
 						</div>
 
 						<h3 class="stat-count">
-							120
+							100
 						</h3>
 
 						<h5 class="stat-title">
 							Crazy Ideas
 						</h5>
 
-					</div> <!-- /stat -->
+					 </div> <!-- /stat --> 
 
 					<div class="bgrid stat">
 
@@ -865,14 +867,14 @@
 						</div>
 
 						<h3 class="stat-count">
-							1500
+							15
 						</h3>
 
 						<h5 class="stat-title">
-							Coffee Cups
+							Collaborations
 						</h5>
 
-					</div> <!-- /stat -->
+					</div> <!-- /stat --> 
 
 					<div class="bgrid stat">
 
@@ -971,7 +973,7 @@
    			<h5>Where to find me</h5>
 
    			<p>
-            1Jakande Estate isolo<br>
+            Jakande Estate isolo<br>
             Lagos, Nigeria<br>
             11026
             </p>
@@ -1022,7 +1024,7 @@
 
      			<ul class="footer-social">        
 				<li><a href="https://www.facebook.com/horlahetan" target="_blank"><i class="fa fa-facebook"></i></a></li>
-			    <li><a href="https://www.twitter.com/Mr_falz" target="_blank"><i class="fa fa-twitter"></i></a></li>
+			    <li><a href="https://www.twitter.com/Mr_fallz" target="_blank"><i class="fa fa-twitter"></i></a></li>
 			    <li><a href="https://www.instagram.com/horlahetan" target="_blank"><i class="fa fa-instagram"></i></a></li>
 		 		<li><a href="https://www.linkedin.com/in/olaitan-falolu-0007/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 			   </ul> 
