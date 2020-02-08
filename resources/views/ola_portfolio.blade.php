@@ -9,7 +9,9 @@
    <meta charset="utf-8">
 	<title>Olaitan Falolu Portfolio</title>
 	<meta name="description" content="">  
-	<meta name="author" content="">
+	<meta name="author" content="Olaitan Falolu">
+	<meta content="falolu, olaitan, oladimeji falolu, cloud architect, IT engineer, system administrator, network administrator" name="keywords">
+	
 
    <!-- mobile specific metas
    ================================================== -->
@@ -28,7 +30,7 @@
 
    <!-- favicons
 	================================================== -->
-	<link rel="icon" type="bootstrap2/image/png" href="favicon.png">
+	<link rel="icon" type="" href="bootstrap2/images/favicon.jpg">
 
 </head>
 
@@ -73,7 +75,7 @@
 
    			<div class="col-twelve">
 
-	   			<h5>Hello, World.</h5>
+	   			<h5>Welcome To My Portfolio.</h5>
 	   			<h1>I'm Olaitan Falolu.</h1>
 
 	   			<p class="intro-position">
@@ -89,8 +91,8 @@
    	</div> <!-- /intro-content --> 
 
    	<ul class="intro-social">        
-         <li><a href="https://facebook.com/horlahetan"><i class="fa fa-facebook"></i></a></li>
-         <li><a href="https://www.linkedin.com/in/olaitan-falolu-0007/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+         <li><a href="https://facebook.com/horlahetan" target="_blank"><i class="fa fa-facebook"></i></a></li>
+         <li><a href="https://www.linkedin.com/in/olaitan-falolu-0007/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
          
          <li><a href=""><i class="fa fa-instagram"></i></a></li>
@@ -253,7 +255,7 @@
 	   				</div>
 
 	   				<div class="timeline-header">
-	   					<h3>software Developer</h3>
+	   					<h3>Software Developer</h3>
 	   					<p>Remote</p>
 	   				</div>
 
@@ -353,7 +355,7 @@
 
 	   				<div class="timeline-content">
 	   					<h4>Federal University of Agriculture Abeokuta</h4>
-	   					<p>B.Agric Plant Breeding and Seed Technology (Second class Upper</p>
+	   					<p>B.Agric Plant Breeding and Seed Technology (Second class Upper)</p>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
@@ -409,13 +411,13 @@
 
 	         	<div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="bootstrap2/images/portfolio/liberty.jpg" alt="Liberty">
+	               	<img src="bootstrap2/images/portfolio/glis.jpg" alt="glispouch">
 	                  <a href="#modal-01" class="overlay">	                  	           
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
-		     					       <h3 class="folio-title">Liberty</h3>	     					    
+		     					       <h3 class="folio-title">Glispouch</h3>	     					    
 		     					    	 <span class="folio-types">
-		     					       	  Graphic Design
+		     					       	  Phone Accessories
 		     					       </span>
 		     					   </div>	                      	
 	                     </div>                    
@@ -425,13 +427,13 @@
 
 	        		<div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="bootstrap2/images/portfolio/shutterbug.jpg" alt="Shutterbug">
+	               	<img src="bootstrap2/images/portfolio/masterB.jpeg" alt="masterbuilder">
 	               	<a href="#modal-02" class="overlay">              		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Shutterbug</h3>	     					    
+	                     		<h3 class="folio-title">The MasterLife Builder </h3>	     					    
 		     					    	<span class="folio-types">
-		     					       	  Web Design
+		     					       	  The Builder Initiative
 		     					      </span>		     		
 		     					   </div> 	                      	
 	                     </div>                    
@@ -441,13 +443,13 @@
 
 	            <div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="bootstrap2/images/portfolio/clouds.jpg"alt="Clouds">
+	               	<img src="bootstrap2/images/portfolio/spar.png"alt="SPAR">
 	                  <a href="#modal-03" class="overlay">             		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Clouds</h3>	     					    
+	                     		<h3 class="folio-title">SPAR Nigeria </h3>	     					    
 		     					    	<span class="folio-types">
-		     					       	  Web Design
+											Supermarket || Mall
 		     					      </span>		     		
 		     					   </div> 	                      	
 	                     </div>                    
@@ -457,13 +459,13 @@
 
 	            <div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="bootstrap2/images/portfolio/beetle.jpg" alt="Beetle">
+	               	<img src="bootstrap2/images/portfolio/Jobet.jpg" alt="jobet new">
 	                  <a href="#modal-04" class="overlay">                  	                 
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Beetle</h3>	     					    
+	                     		<h3 class="folio-title">Jobet</h3>	     					    
 		     					    	<span class="folio-types">
-		     					       	  Branding
+		     					       	  Latest Gossip News
 		     					      </span>		     		
 		     					   </div>  	                      	
 	                     </div>                    
@@ -471,7 +473,7 @@
 	               </div>
 	        		</div> <!-- /folio-item -->     
 
-	        		<div class="bgrid folio-item">
+	        		{{-- <div class="bgrid folio-item">
 	               <div class="item-wrap">
 	               	<img src="bootstrap2/images/portfolio/lighthouse.jpg" alt="Lighthouse">
 	                  <a href="#modal-05" class="overlay">             		                  
@@ -485,9 +487,9 @@
 	                     </div>                    
 	                  </a>
 	               </div>
-	        		</div> <!-- /folio-item -->
+	        		</div> <!-- /folio-item -->  --}}
 
-	            <div class="bgrid folio-item">
+	            {{-- <div class="bgrid folio-item">
 	               <div class="item-wrap">
 	               	<img src="bootstrap2/images/portfolio/salad.jpg" alt="Salad">
 	                  <a href="#modal-06" class="overlay">
@@ -501,65 +503,65 @@
 	                     </div>                    
 	                  </a>
 	               </div>
-	        		</div> <!-- /folio-item -->   
+	        		</div> <!-- /folio-item -->    --}}
 
 	            <!-- modal popups - begin
 	            ============================================================= -->
 	            <div id="modal-01" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="bootstrap2/images/portfolio/modals/m-liberty.jpg" alt="" />
+				     		<img src="bootstrap2/images/portfolio/modals/glis.jpg" alt="" />
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Liberty</h4>		      
-					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+					      <h4>Glispouch</h4>		      
+					      <p>Get your designer pouch for all phone and laptop bags</p>
 
-					      <div class="categories">Web Development</div>			               
+					      <div class="categories">Online Store</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
-					      <a href="#" class="popup-modal-dismiss">Close</a>
+			            <a href="http://www.glispouch.com" target="_blank">Details</a>
+					      <a href="" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
 				   </div> <!-- /modal-01 -->
 
-				   <div id="modal-02" class="popup-modal slider mfp-hide">	
+				   <div id="modal-03" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="bootstrap2/images/portfolio/modals/m-shutterbug.jpg" alt="" />
+				     		<img src="bootstrap2/images/portfolio/modals/spar.png" alt="" />
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Shutterbug</h4>		      
-					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+					      <h4>SPAR Nigeria</h4>		      
+					      <p>No 1 best shopping mall in Nigeria</p>
 
-					      <div class="categories">Web Design</div>			               
+					      <div class="categories">FCMG</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
+			            <a href="http://www.sparnigeria.com" target="_blank">Details</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
 				   </div> <!-- /modal-02 -->
 
-				   <div id="modal-03" class="popup-modal slider mfp-hide">	
+				   <div id="modal-02" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="bootstrap2/images/portfolio/modals/m-clouds.jpg" alt="" />
+				     		<img src="bootstrap2/images/portfolio/modals/masterB.jpeg" alt="" />
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Clouds</h4>		      
-					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+					      <h4>Master Life Builder </h4>		      
+					      <p>The builders Initiative</p>
 
-					      <div class="categories">Web Design</div>			               
+					      <div class="categories">Religion</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
+			            <a href="http://masterlifebuilder.org" target="_blank">Details</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
@@ -568,24 +570,24 @@
 				   <div id="modal-04" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="bootstrap2/images/portfolio/modals/m-beetle.jpg" alt="" />
+				     		<img src="bootstrap2/images/portfolio/modals/jobet.jpg" alt="" />
 				     	</div>      	
 
 					   <div class="description-box">
-					      <h4>Beetle</h4>		      
-					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+					      <h4>Jobet</h4>		      
+					      <p>Latest News in Nigeria</p>
 
-					      <div class="categories">Branding</div>			               
+					      <div class="categories">Blog</div>			               
 					   </div>
 
 			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
+			            <a href="#" target="_blank">Details</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
 				   </div> <!-- /modal-04 -->
 
-				   <div id="modal-05" class="popup-modal slider mfp-hide">	
+				   {{-- <div id="modal-05" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
 				     		<img src="bootstrap2/images/portfolio/modals/m-lighthouse.jpg" alt="" />
@@ -603,9 +605,9 @@
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
-				   </div> <!-- /modal-05 -->
+				   </div> <!-- /modal-05 --> --}}
 
-				   <div id="modal-06" class="popup-modal slider mfp-hide">	
+				   {{-- <div id="modal-06" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
 				     		<img src="bootstrap2/images/portfolio/modals/m-salad.jpg" alt="" />
@@ -623,7 +625,7 @@
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
-				   </div> <!-- /modal-06 -->
+				   </div> <!-- /modal-06 --> --}}
 
 
 				   <!-- modal popups - end
