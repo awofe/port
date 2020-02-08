@@ -106,7 +106,7 @@
    <section id="about">  
 
    	<div class="row section-intro">
-   		<div class="col-twelve">
+   		<div class="col-twenty">
 
    			<h5>About</h5>
    			<h1>Let me introduce myself.</h1>
@@ -256,11 +256,11 @@
 
 	   				<div class="timeline-header">
 	   					<h3>Software Developer</h3>
-	   					<p>Remote</p>
+	   					<p>Remote Till Date</p>
 	   				</div>
 
 	   				<div class="timeline-content">
-	   					<h4>Raada Partners International Limite</h4>
+	   					<h4>Raada Partners International Limited</h4>
 	   					<p>- Write well designed, testable, efficient code by using best software development practices<br> - Create website layout/user interface by using standard HTML/CSS practices<br> - Integrate data from various back-end services and databases<br> - Gather and refine specifications and requirements based on technical needs<br> - Create and maintain software documentation<br> - Be responsible for maintaining, expanding, and scaling our site<br> - Stay plugged into emerging technologies/industry trends and apply them into   operations and activities<br> - Cooperate with web designers to match visual design intent </p>
 	   				</div>
 
