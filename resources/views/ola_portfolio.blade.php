@@ -255,8 +255,8 @@
 	   				</div>
 
 	   				<div class="timeline-header">
-	   					<h3>Software Developer</h3>
-	   					<p>Remote Till Date</p>
+	   					<h3>Software Developer [Remote]</h3>
+	   					<p>January 2020 - Feburary 2020</p>
 	   				</div>
 
 	   				<div class="timeline-content">
