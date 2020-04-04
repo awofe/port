@@ -256,7 +256,7 @@
     "json5": "^2.1.1",
     "killable": "^1.0.1",
     "jsonfile": "^4.0.0",
-    "kind-of": "^6.0.2",
+    "kind-of": "^6.0.3",
     "lcid": "^2.0.0",
     "loader-runner": "^2.4.0",
     "loader-utils": "^1.2.3",
