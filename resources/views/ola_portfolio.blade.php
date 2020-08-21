@@ -358,25 +358,7 @@
 	   					<p>B.Agric Plant Breeding and Seed Technology (Second class Upper)</p>
 	   				</div>
 
-	   			</div> <!-- /timeline-block -->
-
-	   			{{-- <div class="timeline-block">
-
-	   				<div class="timeline-ico">
-	   					<i class="fa fa-briefcase"></i>
-	   				</div>
-
-	   				<div class="timeline-header">
-	   					<h3>Bachelor Degree</h3>
-	   					<p>May 2013 - June 2014</p>
-	   				</div>
-
-	   				<div class="timeline-content">
-	   					<h4>Design College</h4>
-	   					<p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
-	   				</div>
-
-	   			</div> <!-- /timeline-block --> --}}
+	   			</div>
 
    			</div> <!-- /timeline-wrap -->   			
 
@@ -471,39 +453,7 @@
 	                     </div>                    
 	                  </a>
 	               </div>
-	        		</div> <!-- /folio-item -->     
-
-	        		{{-- <div class="bgrid folio-item">
-	               <div class="item-wrap">
-	               	<img src="bootstrap2/images/portfolio/lighthouse.jpg" alt="Lighthouse">
-	                  <a href="#modal-05" class="overlay">             		                  
-	                     <div class="folio-item-table">
-	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Lighthouse</h3>	     					    
-		     					    	<span class="folio-types">
-		     					       	  Web Development
-		     					      </span>		     		
-		     					   </div> 	                      	
-	                     </div>                    
-	                  </a>
-	               </div>
-	        		</div> <!-- /folio-item -->  --}}
-
-	            {{-- <div class="bgrid folio-item">
-	               <div class="item-wrap">
-	               	<img src="bootstrap2/images/portfolio/salad.jpg" alt="Salad">
-	                  <a href="#modal-06" class="overlay">
-	                     <div class="folio-item-table">
-	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Salad</h3>	     					    
-		     					    	<span class="folio-types">
-		     					       	  Branding
-		     					      </span>		     		
-		     					   </div>	                      	
-	                     </div>                    
-	                  </a>
-	               </div>
-	        		</div> <!-- /folio-item -->    --}}
+	        		</div> 
 
 	            <!-- modal popups - begin
 	            ============================================================= -->
@@ -587,49 +537,7 @@
 
 				   </div> <!-- /modal-04 -->
 
-				   {{-- <div id="modal-05" class="popup-modal slider mfp-hide">	
-
-				     	<div class="media">
-				     		<img src="bootstrap2/images/portfolio/modals/m-lighthouse.jpg" alt="" />
-				     	</div>      	
-
-					   <div class="description-box">
-					      <h4>Lighthouse</h4>		      
-					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-
-					      <div class="categories">Web Development</div>			               
-					   </div>
-
-			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
-					      <a href="#" class="popup-modal-dismiss">Close</a>
-			         </div>		      
-
-				   </div> <!-- /modal-05 --> --}}
-
-				   {{-- <div id="modal-06" class="popup-modal slider mfp-hide">	
-
-				     	<div class="media">
-				     		<img src="bootstrap2/images/portfolio/modals/m-salad.jpg" alt="" />
-				     	</div>      	
-
-					   <div class="description-box">
-					      <h4>Salad</h4>		      
-					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-
-					      <div class="categories">Branding</div>			               
-					   </div>
-
-			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
-					      <a href="#" class="popup-modal-dismiss">Close</a>
-			         </div>		      
-
-				   </div> <!-- /modal-06 --> --}}
-
-
-				   <!-- modal popups - end
-	            ============================================================= -->
+				   
 
 	         </div> <!-- /portfolio-wrapper --> 
 
@@ -651,11 +559,10 @@
 	     		<h2 class="h01">Certifications</h2>
 
 		      <p class="lead">
-		      {{-- Looking for an awesome and reliable webhosting? Try <a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT"><span>DreamHost</span></a>.
-				Get <span>$50 off</span> when you sign up with the promocode <span>styleshout</span>.  --}}
+		     
 				1. Linux Foundation Certified system Administrator (In Review)<br>
 				2. Microsoft Azure System Administrator (in Review)
-				<!-- Simply type	the promocode in the box labeled “Promo Code” when placing your order. -->	
+					
 				</p>
 
 				<div class="action">
