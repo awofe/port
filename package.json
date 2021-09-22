@@ -312,7 +312,7 @@
     "normalize-path": "^3.0.0",
     "normalize-url": "^3.3.0",
     "normalize-range": "^0.1.2",
-    "nth-check": "^1.0.2",
+    "nth-check": "^2.0.1",
     "number-is-nan": "^1.0.1",
     "num2fraction": "^1.2.2",
     "object-assign": "^4.1.1",
